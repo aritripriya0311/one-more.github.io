@@ -1,0 +1,21 @@
+.bg{background: url('../css and html/Cape-Town-Stadium.jpg')no-repeat; background-size: cover;width: 100%; height: 100vh;}
+
+.form-container{border:1px solid black;  padding: 30px 40px; 
+-webkit-box-shadow: 2px 4px 36px 14px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 4px 36px 14px rgba(0,0,0,0.75);
+box-shadow: 2px 4px 36px 14px rgba(0,0,0,0.75);
+}
+
+.first{
+	font-size:450%;
+	font-weight: 600;
+	
+
+}
+
+.second{
+	font-size:100%;
+	font-weight:bold;
+	font-family: Oswald;
+	padding-bottom: 70px;
+}
